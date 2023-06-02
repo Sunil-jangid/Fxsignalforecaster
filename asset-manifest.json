@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fxsignalforecaster/static/css/main.0835279f.css",
+    "main.js": "/fxsignalforecaster/static/js/main.885c65f6.js",
+    "static/media/picture.jpg": "/fxsignalforecaster/static/media/picture.efac46b67db2cab6b9c0.jpg",
+    "static/media/bitcoin1.png": "/fxsignalforecaster/static/media/bitcoin1.fa872525b2bc01def8ed.png",
+    "static/media/Picture1.jpg": "/fxsignalforecaster/static/media/Picture1.72f6f1e65430227c849d.jpg",
+    "static/media/Picture5.jpg": "/fxsignalforecaster/static/media/Picture5.6eb2e293b4598f687323.jpg",
+    "static/media/Picture4.jpg": "/fxsignalforecaster/static/media/Picture4.0ba31c8d3ab283c7d0b9.jpg",
+    "static/media/Picture2.jpg": "/fxsignalforecaster/static/media/Picture2.2df22376715b34f89410.jpg",
+    "static/media/Picture6.jpg": "/fxsignalforecaster/static/media/Picture6.bc7aae7945e16cb0858b.jpg",
+    "static/media/Picture3.jpg": "/fxsignalforecaster/static/media/Picture3.df70eb417f89e94e5b20.jpg",
+    "static/media/whatsapp.png": "/fxsignalforecaster/static/media/whatsapp.97b90b6e3f8c70254204.png",
+    "static/media/information.png": "/fxsignalforecaster/static/media/information.1ba7505355c21ab8cfdd.png",
+    "static/media/telegram.png": "/fxsignalforecaster/static/media/telegram.e8540dc14b381676ad9c.png",
+    "static/media/instagram.png": "/fxsignalforecaster/static/media/instagram.75e0546a6b5abe4c0506.png",
+    "index.html": "/fxsignalforecaster/index.html",
+    "main.0835279f.css.map": "/fxsignalforecaster/static/css/main.0835279f.css.map",
+    "main.885c65f6.js.map": "/fxsignalforecaster/static/js/main.885c65f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0835279f.css",
+    "static/js/main.885c65f6.js"
+  ]
+}
