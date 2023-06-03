@@ -34,7 +34,7 @@ function Navbar() {
                 style={{ color: "#f0a739",paddingRight:"100px" }}
                 onClick={() => handleScrollToSection("home")}
               >
-                FX SIGNAL FORECASTER<span className="sr-only">(current)</span>
+                FX SIGNAL FORECASTERS<span className="sr-only" >(current)</span>
               </a>
             </li>
             <li className="nav-item">
