@@ -1,0 +1,28 @@
+.footer {
+    width:auto !important;
+    background-color: #04045E;
+    color: aliceblue;
+}
+.footer .col-lg-3,
+.footer .col-sm-6 {
+    padding-left: 10%;
+    padding-top: 10%;
+}
+.footer .col-lg-3:last-child,
+.footer .col-sm-6:last-child {
+    padding-bottom: 10%;
+}
+.footer p {
+    margin-top: 5%;
+}
+.footer input[type="email"] {
+    border-block-color: blue;
+    border-width: 3px;
+}
+.footer .btn {
+    margin-top: 4%;
+}
+.footer img {
+    height: 40px;
+    margin-left: 3%;
+}
