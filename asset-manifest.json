@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fxsignalforecaster/static/css/main.0835279f.css",
-    "main.js": "/fxsignalforecaster/static/js/main.62e3b10e.js",
+    "main.js": "/fxsignalforecaster/static/js/main.870d2359.js",
     "static/media/picture.jpg": "/fxsignalforecaster/static/media/picture.efac46b67db2cab6b9c0.jpg",
     "static/media/bitcoin1.png": "/fxsignalforecaster/static/media/bitcoin1.fa872525b2bc01def8ed.png",
     "static/media/Picture1.jpg": "/fxsignalforecaster/static/media/Picture1.72f6f1e65430227c849d.jpg",
@@ -15,10 +15,10 @@
     "static/media/instagram.png": "/fxsignalforecaster/static/media/instagram.75e0546a6b5abe4c0506.png",
     "index.html": "/fxsignalforecaster/index.html",
     "main.0835279f.css.map": "/fxsignalforecaster/static/css/main.0835279f.css.map",
-    "main.62e3b10e.js.map": "/fxsignalforecaster/static/js/main.62e3b10e.js.map"
+    "main.870d2359.js.map": "/fxsignalforecaster/static/js/main.870d2359.js.map"
   },
   "entrypoints": [
     "static/css/main.0835279f.css",
-    "static/js/main.62e3b10e.js"
+    "static/js/main.870d2359.js"
   ]
 }
