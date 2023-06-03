@@ -86,7 +86,7 @@ function Middle() {
           </div>
           <p className="pricing-info">
             AT FX signal forecaster, we believe in transparency when it comes to our pricing and fees. Our Premium
-            Signals are available for a monthly subscription fee of $99, with a minimum investment of $155. With our
+            Signals are available for a monthly subscription fee of only $99, with a minimum investment of $155. With our
             free 3-day trial, you can try our Premium Signals with a minimum investment of just $35.
           </p>
         </div>
